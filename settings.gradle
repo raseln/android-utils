@@ -1,0 +1,3 @@
+include ':basic-utils'
+include ':app'
+rootProject.name = "android-utils"
